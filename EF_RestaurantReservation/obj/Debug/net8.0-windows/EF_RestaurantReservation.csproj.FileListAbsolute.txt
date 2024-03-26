@@ -128,3 +128,8 @@ D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.pdb
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.genruntimeconfig.cache
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\ref\EF_RestaurantReservation.dll
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Customer.FrmAddCustomer.resources
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.sourcelink.json
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Customer.FrmCustomer.resources
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Menu.FrmAddMenu.resources
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Menu.FrmMenu.resources
