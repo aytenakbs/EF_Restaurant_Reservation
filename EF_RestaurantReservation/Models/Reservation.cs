@@ -10,5 +10,6 @@ public class Reservation:BaseModel
     public int CustomerId { get; set; }
     public Customer Customer { get; set; }
     public DateTime ReservationDate { get; set; } = DateTime.Now;
-    
+    public bool IsActive { get; set; } = true;
+
 }

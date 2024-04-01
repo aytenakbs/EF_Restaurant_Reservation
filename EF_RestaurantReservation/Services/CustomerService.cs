@@ -11,7 +11,7 @@ public class CustomerService
     public List<Customer> GetCustomerList()
     {
         RestaurantContext db = new RestaurantContext();
-        List<Customer> customers = db.Customers.ToList();
+        List<Customer> customers = db.Customers.Where(x=>x.IsActive==true).ToList();
         return customers;
     }
     public void AddCustomer(Customer customer)
@@ -50,7 +50,7 @@ public class CustomerService
     {
         RestaurantContext db = new RestaurantContext();
         var value = db.Customers.FirstOrDefault(x => x.Id == id);
-        db.Customers.Remove(value);
+        value.IsActive=false;
         db.SaveChanges();
 
     }

@@ -12,7 +12,7 @@ public class MenuService
     public List<Menu> GetAllMenu()
     {
         RestaurantContext db = new RestaurantContext();
-        List<Menu> menuList =db.Menus.ToList();
+        List<Menu> menuList =db.Menus.Where(x => x.IsActive == true).ToList();
         return menuList;
     }
     public void AddMenu(Menu menu)
@@ -25,7 +25,7 @@ public class MenuService
     {
         RestaurantContext db = new RestaurantContext();
         Menu menu=GetMenuById(id);
-        db.Menus.Remove(menu);
+        menu.IsActive = false;
         db.SaveChanges();
     }
     public Menu GetMenuById(int id)

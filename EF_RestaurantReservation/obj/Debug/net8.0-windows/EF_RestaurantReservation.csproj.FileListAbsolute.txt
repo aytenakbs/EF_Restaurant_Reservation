@@ -133,3 +133,5 @@ D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Customer.FrmCustomer.resources
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Menu.FrmAddMenu.resources
 D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Menu.FrmMenu.resources
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Reservation.FrmAddReservation.resources
+D:\c#\EF_RestaurantReservation\EF_RestaurantReservation\obj\Debug\net8.0-windows\EF_RestaurantReservation.Forms.Reservation.FrmReservation.resources
